@@ -8,7 +8,7 @@
 1. conda create  -n QandA python=3.12 -y
 2. conda activate "venv name"
 
-'''
+
 
 ### GIT Commands
 
